@@ -10,6 +10,15 @@ start .\index.html
 Unify is a browser-based campus portal that brings student opportunities, notices,
 events, announcements, and staff tools into one place.
 
+## Changes
+
+- Added role-based entry points for students and staff/admin users.
+- Added local browser storage for demo authentication and portal data.
+- Added student views for opportunities, notices, events, deadlines, notifications,
+	and questions.
+- Added staff tools for publishing notices, opportunities, announcements, and
+	attendance records.
+
 ## Features
 
 ### Student portal
